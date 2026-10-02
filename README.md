@@ -28,7 +28,7 @@ Linear Regression
 
 1. Install the required libraries:
    `py -m pip install pandas scikit-learn`
-2. Keep `house_price.csv` and the Python file in the same folder.
+2. Keep `House_Price.csv` and the Python file in the same folder.
 3. Run:
    `py House_Price_Prediction.py`
 
